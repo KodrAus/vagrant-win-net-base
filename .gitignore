@@ -1,0 +1,14 @@
+*.log
+*.box
+**/buildTemp
+**/publish
+**/packages
+**/packaging
+**/bin
+**/obj
+**/.tmp
+.vagrant
+**/*.tfstate
+**/*.tfstate.backup
+
+**/packer_cache
